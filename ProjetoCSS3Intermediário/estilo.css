@@ -1,0 +1,90 @@
+/* modelo-caixa */
+
+/* .conteudo{
+    /* border: 1px solid red;
+    padding-top: 20px;
+    padding-right:20px;
+    padding-bottom:20px;
+    padding-left:20px;
+
+    padding:20px 15px 10px 5px;
+
+    padding:20px;
+
+    margin-top: 20px;
+    margin-right:20px;
+    margin-left:20px;
+    margin-bottom:20px;
+
+    margin: 10px;
+
+    width:150px;
+}
+.conteudo2{
+    border: 1px solid red;
+    margin:50px;
+    width:150px;
+} */ 
+/* #noticia{
+    background:#f9f9f9;
+    border:1px solid gray;
+    padding:10px;
+}
+h2{
+    margin:0px;
+} */
+
+/* elementos flutuantes */
+/* 
+.conteudo{
+    background:blue;
+    border:1px solid gray;
+    width: 200px;
+    height:200px;
+    margin:10px;
+    float:left;
+} */
+
+/* .conteudo1{
+    background:red;
+    border:1px solid gray;
+    width: 200px;
+    height:200px;
+    margin:10px;
+    float:left;
+} */
+/* .conteudo-zero{
+    background:red;
+    border:1px solid gray;
+    width: 200px;
+    height:200px;
+    margin:10px;
+}
+
+.clear{
+    clear:both;
+}
+
+#principal{
+    border:5px solid red;
+    background: green;
+} */
+
+/* elementos flutuantes - prática */
+
+#principal{
+    width:920px;
+    border:1px solid red;
+}
+
+.noticia{
+    background:#e5e5e5;
+    padding:5px;
+    width:280px;
+    margin:5px;
+    float:left;
+}
+
+.clear{
+    clear:both;
+}
