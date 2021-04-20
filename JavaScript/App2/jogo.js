@@ -6,7 +6,6 @@ var tempo = 15
 var criaMosquitoTempo = 1500
 
 var nivel = window.location.search
-alert(nivel.replace('?',''))
 
 if(nivel === 'normal'){
     //1500
