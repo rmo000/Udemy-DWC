@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title></title>
+    <meta charset='UTF-8'>
+
+    <script>
+
+        let bicicleta1 ={
+            cor: 'Branca',
+            marcha: 'única',
+            aro: 12,
+            pedalar(){
+                console.log('Método pedalar executado')
+            }
+        }
+
+        let bicicleta2 ={
+            cor: 'Vermelha',
+            marcha: '18',
+            aro: 26,
+            pedalar(){
+                console.log('Método pedalar executado')
+            }
+        }
+
+        console.log(bicicleta1)
+        console.log(bicicleta2)
+
+        let bicicletaFactory = function(cor, marcha, aro){
+            return{
+                cor,
+                marcha,
+                aro,
+                pedalar(){
+                    console.log('Método pedalar executado')
+                }
+            }
+        }
+
+        let bicicleta3 = bicicletaFactory('Vermelha', '18', 26)
+        console.log(bicicleta3)
+
+        let bicicleta4 = bicicletaFactory('Preta', '21', 29)
+        console.log(bicicleta4)
+
+        // console.log(`Cor: ${bicicleta3.cor}`)
+        // bicicleta3.pedalar()
+
+    </script>
+</head>
+
+<body>
+
+</body>
+
+</html>
