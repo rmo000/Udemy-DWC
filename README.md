@@ -2,72 +2,32 @@
   <img alt="Udemy" src=".github/logo.svg" width="160px">
 </p>
 
-<h1 align="center">
-    <img alt="Letmeask" src=".github/cover.svg" />
-</h1>
-
 <br>
+
+## 🚀 Descrição
+
+Esse repositório é destinado ao conteúdo do curso <b>Desenvolvimento Web Completo 2021 - 20 cursos + 20 projetos</b>
 
 ## 🧪 Tecnologias
 
-Esse projeto foi desenvolvido com as seguintes tecnologias:
+Esse repositorio contém as seguintes tecnologias:
 
-- [React](https://reactjs.org)
-- [Firebase](https://firebase.google.com/)
-- [TypeScript](https://www.typescriptlang.org/)
-
-## 🚀 Como executar
-
-Clone o projeto e acesse a pasta do mesmo.
-
-```bash
-$ git clone https://github.com/rmo000/letmeask.git
-$ cd letmeask
-```
-
-Para iniciá-lo, siga os passos abaixo:
-```bash
-# Instalar as dependências
-$ yarn
-
-# Iniciar o projeto
-$ yarn start
-```
-O app estará disponível no seu browser pelo endereço http://localhost:3000.
-
-Lembrando que será necessário criar uma conta no [Firebase](https://firebase.google.com/) e um projeto para disponibilizar um Realtime Database.
-
-## 💻 Projeto
-
-Letmeask é perfeito para criadores de conteúdos poderem criar salas de Q&A com o seu público, de uma forma muito organizada e democrática. 
-
-Este é um projeto desenvolvido durante a **[Next Level Week Together](https://nextlevelweek.com/)**, apresentada dos dias 20 a 27 de Junho de 2021.
+- HTML5
+- CSS3
+- Javascript
+- [Bootstrap 4](https://getbootstrap.com/docs/4.6/getting-started/introduction/)
+- [Apache](https://www.apache.org/)
+- [PHP](https://www.php.net/)
+- [MySQL](https://www.mysql.com/)
+- [JQuery](https://jquery.com/)
+- [SASS](https://sass-lang.com/)
+- [WordPress](https://wordpress.com/pt-br/)
+- [IONIC](https://ionicframework.com/)
 
 
-## 🔖 Layout
+## 💻 Curso
 
-Você pode visualizar o layout do projeto através do link abaixo:
+O curso conta com mais de 530 aulas, ao todo são mais de 100 horas de videoaulas em que são abordadas as principais tecnologias web do momento.
 
-- [Layout Web](https://www.figma.com/file/u0BQK8rCf2KgzcukdRRCWh/Letmeask/duplicate) 
-
-Lembrando que você precisa ter uma conta no [Figma](http://figma.com/).
-
-## 📝 License
-
-Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para mais detalhes.
-
----
-
-Feito com 💜 by Rocketseat 👋🏻 [Participe da comunidade da Rocketseat](https://discord.gg/gKUVrzrPrU)
-
----
-
-Milha extra:
-
-- Readme do Github
-- Redirect ao criar a sala para a página de admin
-- Redirect para a página de admin se o criador entrar na sala
-- Logout da página de admin
-- Logout da página Room
-- Implementação da opção "Para enviar uma pergunta, Faça seu login"
-- botão de logoff
+Para iniciar o treinamento não é necessário nenhum conhecimento prévio na área, o aluno partirá do zero e ao final do treinamento alcançará um nível profissional. Além disso o aluno conta com um suporte campeão para tirar suas dúvidas.<br>
+[Link do curso](https://www.udemy.com/share/101WqG2@PW5jVGJKcFAOekdFBXZ3fj5u/)
