@@ -2,8 +2,6 @@
   <img alt="Udemy" src=".github/logo.svg" width="160px">
 </p>
 
-<br>
-
 ## 🚀 Descrição
 
 Esse repositório é destinado ao conteúdo do curso <b>Desenvolvimento Web Completo 2021 - 20 cursos + 20 projetos</b>
